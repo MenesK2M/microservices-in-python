@@ -16,6 +16,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: menesk2m/micro-service:d2a23
+        image: menesk2m/micro-service:039cb
+
         ports:
         - containerPort: 5000
